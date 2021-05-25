@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    width:auto; 
+    height:800px;
+}
+
+.inbound {
+    background-image: url('red.png');
+    background-size: 25px;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.outbound {
+    background-image: url('blue.png');
+    background-size: 25px;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+/* Grid */
+
+.wrapper{
+    display: grid;
+    grid-template-columns: repeat (3 1fr);
+    gap: 5px;
+    height: 60vh;
+}
+
+header{
+    background:navy;
+    color: white;
+    font-size: 2em;
+    text-align: center;
+}
+
+legend{
+    background: silver;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+content{
+    grid-column: 1 / 4;
+}
+
