@@ -12,5 +12,7 @@ The map shows the location for the busses in an Area of Boston
 ## Usage
 Educational purposes
 
+Thanks to https://github.com/WDev2021
+
 ## Support
 giuseppelino@gmail.com
