@@ -5,7 +5,7 @@ Website: **https://giuseppelino.github.io/bus.github.io/**
 Real Time Bus Tracker
 
 ## Description  
-This is a practice exercise to learn how to **fetch data from other websites**
+MIT course - This is a practice exercise to learn how to **fetch data from other websites**
 
 The map shows the location for the busses in an Area of Boston
 
@@ -13,4 +13,4 @@ The map shows the location for the busses in an Area of Boston
 Educational purposes
 
 ## Support
-None
+giuseppelino@gmail.com
