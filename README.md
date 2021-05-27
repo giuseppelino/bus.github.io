@@ -26,7 +26,7 @@ NA
 ## License information
 **MIT License**
 
-Copyright (c) 2020 
+Copyright (c) 2021 Giuseppe Lino 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
