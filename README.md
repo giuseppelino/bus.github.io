@@ -1,5 +1,5 @@
-# MITxPro
-Website: **https://giuseppelino.github.io/bus.github.io/**
+# Website
+https://giuseppelino.github.io/bus.github.io/
 
 ## Name  
 Real Time Bus Tracker
